@@ -1,7 +1,6 @@
 # Hola! Soy Priscila Rodriguez 👩‍💻
 
 🎓 Estudiante de Licenciatura en Sistemas de la Información  
-📚 Actualmente aprendiendo Python, Cypress y herramientas de automatización  
 🚀 Desarrollando proyectos académicos y personales  
 
 ---
