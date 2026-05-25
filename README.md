@@ -23,12 +23,3 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
-
-## 📌 Actualmente
-
-✨ Explorando:
-- Python
-- APIs de IA
-- Automatización
-- Testing con Cypress
-- Desarrollo de asistentes IA
